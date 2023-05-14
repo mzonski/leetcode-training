@@ -2,11 +2,11 @@
 
 namespace LeetCode.Tests.Problems;
 
-public class ContainsDuplicate217Test
+public class P217ContainsDuplicateTest
 {
     private readonly P217ContainsDuplicate _containsDuplicate;
 
-    public ContainsDuplicate217Test()
+    public P217ContainsDuplicateTest()
     {
         _containsDuplicate = new P217ContainsDuplicate();
     }
